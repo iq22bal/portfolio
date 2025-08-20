@@ -2,6 +2,7 @@
 
 This is a basic portfolio site to showcase deployment.  
 It contains a single page with your name, a brief intro, and contact info.
+---------------------------------------
 
 ---
 
